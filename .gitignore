@@ -1,0 +1,3 @@
+*.tex
+lib/
+__pycache__/
